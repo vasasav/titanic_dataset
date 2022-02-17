@@ -1,10 +1,10 @@
 # titanic_dataset
 
-Trying models on titanic dataset.
+The aim of this work is to compare the results of XGBoost and TF.BoostedTrees performance on the familiar Titanic dataset
 
 ## Directory `prelims`
 
-Downloading the initial dataset, exploring it, and preparing it for machine learning.
+Downloading the initial dataset, exploring it, and preparing it for machine learning models
 
 ## Directory `XGBoost`
 
